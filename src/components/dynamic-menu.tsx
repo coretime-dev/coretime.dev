@@ -2,7 +2,7 @@ import { Github } from "lucide-react";
 
 export function DynamicMenu() {
   return (
-    <div className="relative h-[300px] w-full">
+    <div className="absolute bottom-8 right-8 h-[300px] w-full">
       <nav
         className="menu"
         style={
