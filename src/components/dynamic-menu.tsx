@@ -37,7 +37,7 @@ export function DynamicMenu() {
           <Github className="h-5 w-5 text-white dark:text-mauve-dark-1" />
         </a>
         <a
-          href="https://x.com/kaichaosun"
+          href="https://x.com/coretime_dev"
           target="_blank"
           className="absolute bottom-10 right-10 flex h-14 w-14 items-center justify-center rounded-full bg-mauve-dark-1 text-mauve-dark-12 transition-transform duration-300 ease-in peer-checked:translate-y-[-162px]
           peer-checked:duration-300 peer-checked:ease-[var(--spring-easing)]

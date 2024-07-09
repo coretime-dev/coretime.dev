@@ -57,7 +57,7 @@ const Header = ({ title, link, icon, ready = true }) => {
                 Stay updated by following us on{" "}
                 <a
                   className="text-primary"
-                  href="https://x.com/kaichaosun"
+                  href="https://x.com/coretime_dev"
                   target="_blank"
                 >
                   Twitter
@@ -111,7 +111,7 @@ const items = [
     className: "md:col-span-1",
   },
   {
-    description: "Build and delopy coretime in terminal.",
+    description: "Build and deploy coretime in terminal.",
     header: (
       <Header
         title="Coretime CLI"
