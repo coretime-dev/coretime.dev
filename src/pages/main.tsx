@@ -98,7 +98,7 @@ const items = [
     className: "md:col-span-1",
   },
   {
-    description: "A portal for Substrate developer using Chinese.",
+    description: "A portal for Substrate developers using Chinese.",
     header: (
       <Header
         title="subdev.cn"
